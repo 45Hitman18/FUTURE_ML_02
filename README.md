@@ -172,3 +172,8 @@ support_ticket_classifier/
 2. **REST API / Web dashboard** — expose predictions via FastAPI and a React UI for the support team
 3. **Active learning loop** — retrain on agent-corrected labels weekly to continuously improve accuracy
 4. **Multi-label classification** — handle tickets that span multiple categories simultaneously
+
+## Streamlit Dashboard
+
+<img width="1831" height="859" alt="image" src="https://github.com/user-attachments/assets/0ba5f4bc-06f3-41c4-ab00-ab3af50fa178" />
+
